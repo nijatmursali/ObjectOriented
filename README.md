@@ -16,4 +16,12 @@ The project is made on NetBeans and you can simply clone and run it in your serv
 
 ## Login Page
 
-![Login Page](https://octodex.github.com/images/yaktocat.png)
+![Login Page](https://github.com/nijatmursali/ObjectOriented/blob/master/Images/Login.JPG)
+
+## Registration Page
+
+![Registration Page](https://github.com/nijatmursali/ObjectOriented/blob/master/Images/Registration.JPG)
+
+## Home Page
+
+![Home Page](https://github.com/nijatmursali/ObjectOriented/blob/master/Images/Home.JPG)
