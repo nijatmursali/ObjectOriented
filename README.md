@@ -12,3 +12,8 @@ This folder is about the design process of the application.
 # Project 
 
 The project is made on NetBeans and you can simply clone and run it in your server. 
+
+
+## Login Page
+
+![Login Page](https://octodex.github.com/images/yaktocat.png)
